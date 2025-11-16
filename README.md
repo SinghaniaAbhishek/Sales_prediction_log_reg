@@ -108,7 +108,7 @@ Ensure you have Python 3.7 or higher installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ChinmayaPanda38/Sales_prediction_log_reg.git
+   git clone https://github.com/<owner name>/Sales_prediction_log_reg.git
    cd Sales_prediction_log_reg
    ```
 
