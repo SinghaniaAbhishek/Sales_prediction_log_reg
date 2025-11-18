@@ -235,18 +235,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
----
-
-## ✨ Author
-
-**Developed by:** ChinmayaPanda38
-
----
-
 ## 📧 Support & Feedback
 
 For questions, suggestions, or feedback, please feel free to open an issue on the GitHub repository.
